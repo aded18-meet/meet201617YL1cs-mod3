@@ -1,5 +1,5 @@
 #This script performs some simple tests on the UserAccount class.
-from UserAccount from UserAccount from UserAccount from UserAccount import UserAccount
+from UserAccount from UserAccount from UserAccount from UserAccount from UserAccount import UserAccount
 
 #Two things are missing from the line below - fill them in
 my_user=UserAccount(  , ,  )
